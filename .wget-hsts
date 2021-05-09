@@ -1,0 +1,20 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+zlib.net	0	1	1620493954	63072000
+data.iana.org	0	0	1620493857	48211200
+www.python.org	0	1	1620493690	63072000
+www.kernel.org	0	0	1620493859	15768001
+ftp.gnu.org	0	0	1620493840	63072000
+www.cpan.org	0	0	1620493660	15724800
+launchpad.net	0	0	1620493272	15552000
+codeload.github.com	0	0	1620493712	31536000
+github-releases.githubusercontent.com	0	0	1620493959	31536000
+sourceforge.net	0	0	1620493942	31536000
+sourceware.org	0	0	1620493329	16070400
+www.linuxfromscratch.org	0	0	1620495209	31536000
+www.iana.org	0	0	1620493856	48211200
+www.openssl.org	0	1	1620493649	31536000
+github.com	0	1	1620493958	31536000
+mirrors.edge.kernel.org	0	0	1620493859	15768001
+www.sourceware.org	0	0	1620492610	16070400

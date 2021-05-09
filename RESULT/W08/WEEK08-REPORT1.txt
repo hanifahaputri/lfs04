@@ -1,0 +1,26 @@
+ZCZC pwd
+/home/hanifahaputri/RESULT/W08
+ZCZC date
+Sun 09 May 2021 12:33:19 AM WIB
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             4069916       0   4069916   0% /dev
+tmpfs             816960    8636    808324   2% /run
+/dev/sda2       65543732 1715044  60469456   3% /
+tmpfs            4084784       0   4084784   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            4084784       0   4084784   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             816956       0    816956   0% /run/user/1001
+ZCZC hostnamectl
+   Static hostname: hanifahaputri
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 3821e3074f7148e687322f91fdb6b4b3
+           Boot ID: 33e42206be79443eaa4065d2280d6e33
+    Virtualization: oracle
+  Operating System: Debian GNU/Linux 10 (buster)
+            Kernel: Linux 4.19.0-16-amd64
+      Architecture: x86-64
+ZCZC chktoken
+hanifahaputri 3319-2124
